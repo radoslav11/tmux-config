@@ -33,3 +33,8 @@ foreground = #bbbbbb
 cursor-color = #dfdfdf
 selection-background = #b5d5ff
 selection-foreground = #000000
+
+# Remove ligatures
+font-feature = -dlig
+font-feature = -liga
+font-feature = -calt
